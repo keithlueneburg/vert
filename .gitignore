@@ -2,3 +2,4 @@
 .agents/skills
 .claude/skills
 .claude/commands/opsx
+skills-lock.json
